@@ -44,7 +44,7 @@
 | 拼多多               | [秋招](https://careers.pinduoduo.com/campus/grad)                                              | 2024/7/30 |                         上海，广州      |   后端开发岗客服技术组内推码：f5tgflfReP  数据分析师岗客服技术组内推码：bTOnnzeRXt  使用对应岗位内推码可优先被对应部门筛选，其他岗位使用内推码仅起到加速流程作用                                                                                                                            |
 | 哔哩哔哩               | [秋招](https://jobs.bilibili.com/campus/)                                              | 2024/8/1 |                         上海，北京，重庆      |  截至2024.8.8仅有工作地点位于上海的岗位，其他工作地点岗位待更新 
 | 蚂蚁集团               | [秋招](https://talent.antgroup.com/campus-full-list?type=campus_graduates)                                              | 2024/8/19 |                         杭州，上海，北京，成都，深圳，重庆      |
-
+| 360集团                 |[秋招](https://360campus.zhiye.com/campus/jobs?shareId=eed826e9-e3e5-4879-b76c-9fd41382ea21&shareSource=2)  | 2024/8/30 | 北京，上海 |
 ## 实习篇
 
 ### 互联网 && AI
